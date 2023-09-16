@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm a master student in NTHU EE
 
 <!--
 **stephen-kao/stephen-kao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
